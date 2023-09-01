@@ -46,7 +46,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/fruit-nutrition-analysis.git
+https://github.com/hyperFounder/Fruit-Nutrition-Lookup
 ```
 2. Install the required Python libraries using pip:
 ```
