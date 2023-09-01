@@ -19,7 +19,13 @@ Users can simply input the name of a fruit, and the program will access and pres
 - Sugar (grams)
 - Carbohydrates (grams)
 - Protein (grams)
+  
+## Data Source: FruityVice API 🍎🍌
 
+Okay, so, where do we get all that cool fruit nutrition data? We're buddies with the [FruityVice API!](https://www.fruityvice.com/#1) 🤝
+- This project relies on the FruityVice API to dish out the latest and greatest info on all your favorite fruits. It's like our secret weapon for nutrition facts.
+- No more guessing about how healthy your snacks are – we've got the inside scoop, thanks to our fruity friend at FruityVice! 🍓
+ 
 ## Visualize Nutritional Relationships
 The program offers a range of options for visualizing relationships between nutritional attributes. Users can explore correlations such as:
 
@@ -47,7 +53,6 @@ git clone https://github.com/your-username/fruit-nutrition-analysis.git
 !pip install pandas matplotlib scipy scikit-learn
 ```
 3. Run the [Jupyter Project File](https://github.com/hyperFounder/Fruit-Nutrition-Lookup/blob/main/Fruit_Nutrition_Lookup.ipynb) and follow the on-screen menu to explore and analyze fruit nutrition data.
-
 
 ### License
 This project is licensed under the [MIT License.](https://github.com/hyperFounder/Fruit-Nutrition-Lookup/blob/main/LICENSE)
