@@ -1,4 +1,4 @@
-# Fruit Nutrition Analysis
+# Fruit Nutrition Lookup
 
 This Jupyter Notebook project provides a comprehensive analysis of fruit nutrition data, enabling users to explore and visualize nutritional information, understand relationships between nutritional attributes, and perform Hierarchical Clustering analysis. The project offers the following key features:
 
