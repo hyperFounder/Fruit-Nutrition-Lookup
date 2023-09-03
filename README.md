@@ -27,9 +27,9 @@ Okay, so, where do we get all that cool fruit nutrition data? We're buddies with
 - No more guessing about how healthy your snacks are – we've got the inside scoop, thanks to our fruity friend at FruityVice! 🍓
  
 ## Visualize Nutritional Relationships
-The program offers a range of options for visualizing relationships between nutritional attributes. Users can explore correlations such as:
+The program offers a range of options for visualizing relationships between nutritional attributes. Users can explore features such as:
 
-- **Linear Regression:** A vstatistical method used to model the relationship between two or more variables. In the context of this project, linear regression is applied to nutritional attributes. Each scatter plot is accompanied by a linear regression line, which represents the "best-fit" straight line through the data points. This line demonstrates the direction and strength of the relationship between two nutritional attributes.
+- **Linear Regression:** A statistical method used to model the relationship between two or more variables. In the context of this project, linear regression is applied to nutritional attributes. Each scatter plot is accompanied by a linear regression line, which represents the "best-fit" straight line through the data points. This line demonstrates the direction and strength of the relationship between two nutritional attributes.
 
 - **Correlation Coefficient (r):** The project calculates the Pearson correlation coefficient (r) for each pair of attributes. This coefficient quantifies the degree of correlation between two variables. A positive r value indicates a positive correlation, while a negative r value indicates a negative correlation. The magnitude of r represents the strength of the relationship, with values closer to 1 or -1 indicating a stronger correlation.
 
